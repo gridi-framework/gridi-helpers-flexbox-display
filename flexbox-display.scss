@@ -1,7 +1,2 @@
-.display-flex {
-    @include display-flex();
-}
-
-.display-inline-flex {
-    @include display-inline-flex();
-}
+@import 'config';
+@import 'components';

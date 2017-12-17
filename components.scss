@@ -1,0 +1,7 @@
+.display-flex {
+    @include display-flex($gridi-helpers-flexbox-display-flex-settings);
+}
+
+.display-inline-flex {
+    @include display-inline-flex($gridi-helpers-flexbox-display-inline-flex-settings);
+}
